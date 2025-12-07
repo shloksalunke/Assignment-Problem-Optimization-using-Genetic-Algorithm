@@ -1,4 +1,4 @@
-# 🧠 Assignment Problem Optimization using Genetic Algorithm
+# 🧠 Assignment Problem Optimization using the Genetic Algorithm
 
 An interactive Python + Streamlit project that solves the **Assignment Problem** using a fully customized **Genetic Algorithm (GA)**. This application allows users to input their own cost matrix and generates optimized assignments with real-time results.
 
